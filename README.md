@@ -42,4 +42,11 @@ f) Delete product(s) which has the lowest amount.
 g) Find the order which has the maximum total cost, update it’s total cost so that its total cost
 becomes same as the minimum total cost at the end of the update.
 
+# Content of Conceptual Design
+I designed a conceptual database regarding my research interests,education, personal interests etc. 
+ This project is including:
+• Schemas of the database
+• E-R diagram of the database
+
+
 
